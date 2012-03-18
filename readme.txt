@@ -66,3 +66,4 @@ No, in the actual release it is only possible to have one slider working on scre
 == Upgrade Notice ==
 
 not available yet, will be added in a later release
+
