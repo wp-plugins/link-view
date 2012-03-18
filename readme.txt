@@ -3,7 +3,7 @@ Contributors: mibuthu
 Tags: link, blogroll, view, linkview, list, slider, slideshow, images, pictures, banner, integrated, page, categories
 Requires at least: 3.0
 Tested up to: 3.3.1
-Stable tag: 0.2.0
+Stable tag: 0.2.1
 
 Display a link-list or link-slider in a post or page by using a shortcode.
 
@@ -44,6 +44,10 @@ No, in the actual release it is only possible to have one slider working on scre
 
 
 == Changelog ==
+
+= 0.2.1 (2012-03-18) =
+
+* Fixed bug to show correct image size in image list
 
 = 0.2.0 (2012-03-17) =
 
