@@ -3,7 +3,7 @@ Contributors: mibuthu
 Tags: link, links, blogroll, view, linkview, list, slider, slideshow, images, pictures, banner, integrated, page, category, categories, admin, attribute
 Requires at least: 3.0
 Tested up to: 3.3.1
-Stable tag: trunk
+Stable tag: 0.2.3
 
 Display a link-list or link-slider in a post or page by using a shortcode.
 
