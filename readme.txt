@@ -53,7 +53,7 @@ Yes, you can create an instance of the "sc_linkview" class which located in "php
 
 = 0.4.3 (2013-09-01) =
 
-* added shortcode attribute num_links to limit the number of displayed links
+* added shortcode attribute num_links to limit the number of displayed links 
 * changed shortcode attribute link_order to lowercase (using uppercase letters is still working)
 
 = 0.4.2 (2013-06-29) =
